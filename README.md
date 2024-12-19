@@ -16,12 +16,5 @@ This is a React-based application for managing users with features like authenti
 ## Hosting
 This app is hosted on [Netlify](https://www.netlify.com/). You can access the live app [here](<https://prismatic-brigadeiros-0cbae3.netlify.app/>).
 
-## Setup
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/your-username/user-management-app.git
-  cd user-management-app
 
-2. Install Dependencies:
-   ```bash
   
